@@ -3,11 +3,11 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "UIPF",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2dbd630736494432acebf25a59a98b77"
+			"Name": "Splanc_demo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
